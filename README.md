@@ -1,2 +1,5 @@
 # pipex
-This project aims to make you understand a bit deeper two concepts that you already know: the redirections and the pipes. It is an introduction project.
+read man perror, strerror, access, dup, dup2, execve, fork, pipe, unlink, wait, waitpid  
+  
+tutorial [[https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901]
+
